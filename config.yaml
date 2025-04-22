@@ -1,0 +1,5 @@
+agent:
+  class_name: Test_agent7Agent
+  description: test agent for semantic subscription
+  domain: test_agents
+  package_name: test_agent7
